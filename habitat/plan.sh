@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=vishmal-test-origin
+pkg_origin=vishmal-test-orogin
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
